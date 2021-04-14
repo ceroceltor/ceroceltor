@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!--ceroceltor/ceroceltor. -->
 
 Hola , soy Cesar . Estudie formalmente la Ingenieria Industrial, egresando de la Universidad Experimental Politécnica Antonio José de Sucre (UNEXPO-Venezuela), con más de 20 años de experiencia en consultoria de ingeniería y construcción area de instrumentacion y coordinacion de disciplinas. participando en el desarrollo de proyectos multidisciplinarios en diferentes etapas: Visualización, Conceptualización, Definición e Implementación, de acuerdo a las normas y estándares internacionales.
 Manejo las  herramientas informáticas habituales procedsador de palabras, hojas de calculo, Autocad. Actualmente estoy implementando planes de mantenimiento, diseño ,mejoras y reparaciones de vehiculos verdes impulsados por electricidad. Tambien estoy reconvirtiendo al area TI para en la cual ya soy egresado del Bootcamp de Java Full Stack Trainee para el desarrollo de Aplicaciones informáticas.
@@ -68,4 +68,4 @@ Idiomas:
 Inglés: Avanzado escrito y hablado
 
 
---!>
+
